@@ -37,3 +37,13 @@ An AI-powered web application that detects whether a job posting is **Fake** or 
 ---
 
 ## 📂 Project Structure
+
+---
+
+## 📦 Installation (Local Run)
+
+If you want to run this project on your local machine:
+
+```bash
+pip install -r requirements.txt
+streamlit run frontend.py
