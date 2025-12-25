@@ -51,4 +51,4 @@ if st.button("🔍 Check Job Authenticity"):
             st.success("✅ This looks like a **GENUINE job post**.")
 
 st.markdown("---")
-st.caption("🚀 Built by Suyash Tamkhane | AI-powered Fake Job Detection")
+st.caption("🚀 Built by Suyash Tamkhane ")
