@@ -1,4 +1,4 @@
-# 🕵️ Fake Job Post Detector
+# 🕵️ Fake Job Post Predector
 
 An AI-powered web application that detects whether a job posting is **Fake** or **Genuine** using Machine Learning and Natural Language Processing.
 
